@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## Welcome! 👋
 
-I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in Business Analytics. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Developer at Citi's [PSM Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
+I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in Business Analytics/ Data Science. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Developer at [Citi's Global Wealth Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
 
 ### Passion for Technology 🚀
 
@@ -33,6 +33,21 @@ As I navigate through my MS at UCLA, my goal is to harness data science and mach
 Let's connect and explore how we can drive technological advancements together!
 
 *Here's to creating a future driven by data and innovation.* 🌐❤️
+
+### Skills
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
  
