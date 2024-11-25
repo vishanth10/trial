@@ -19,7 +19,7 @@ nav_order: 4
  - Identified and reported the issues in Data modeling and DB design (in Snowflake), optimized the ETL pipeline to further increase the data speed.
  - Developed Executive dashboard on major KPIs dealt with pipeline of 10 Billions rows of data in Payments to create over view of performace of Payment failures, Chargeback fees, Fraud Payments, Refunds, Sales and Profit
 
-
+<hr style="border:2px solid gray">
 
 <figure style="display: flex; align-items: center;">
     <img src="../assets/img/traversaal.png" alt="traversaal Logo" style="width:80px; margin-right: 10px;"/>
