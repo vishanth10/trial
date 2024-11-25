@@ -35,7 +35,7 @@ support images, ppt format files using OCR (multimodal), embedding using nomic-a
  - Trained/fine-tuned foundation LLMs (Llama) to enhance the ranking, data retrieval, context rich text generations
  - Designed knowledge graph/semantic chunking, accelerated vector search by 20 sec, retrieval process 20% better accuracy
 
- - <b> Back end/ML model(RAG/Finetuned LLM) developer of https://traversaal.ai/#contact (API as Service, SaaS) </b>
+<b> Back end/ML model(RAG/Finetuned LLM) developer of https://traversaal.ai/#contact (API as Service, SaaS) </b>
 
 
 
