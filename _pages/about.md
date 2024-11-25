@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## Welcome! 👋
 
-I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in Business Analytics/ Data Science. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Developer at [Citi's Global Wealth Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
+I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in ML,Data Science/Business Analytics. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Development Engineer at [Citi's Global Wealth Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
 
 ### Passion for Technology 🚀
 
@@ -28,7 +28,7 @@ My expertise lies in **Generative AI and Machine Learning**, fields that are res
 
 ### My Mission 🌟
 
-As I navigate through my MS at UCLA, my goal is to harness data science and machine learning for innovative solutions. **I'm open to summer 2024 internships and full-time roles starting December 2024** in Data Science and ML/AI domains.
+As I navigate through my MS at UCLA, my goal is to harness data science and machine learning for innovative solutions. **I'm open to full-time roles starting Jan 2025** in Data Science, ML/AI Engineer and Business Analytics/Strategy domains.
 
 Let's connect and explore how we can drive technological advancements together!
 

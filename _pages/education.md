@@ -12,7 +12,7 @@ nav_order: 3
     <div style="display: flex; align-items: center; margin-bottom: 1em;">
         <img src="../assets/img/ucla.png" alt="UCLA Logo" style="width: 60px; margin-right: 20px; border-radius: 50%;">
         <div>
-            <h3 style="margin: 0; font-size: 1.5em;"><b>MS in Business Analytics (Data Science)</b></h3>
+            <h3 style="margin: 0; font-size: 1.5em;"><b>MS in Business Analytics, Specialised Data Science/Machine Learning</b></h3>
             <p style="margin: 0; font-size: 1.2em;">University of California, Los Angeles</p>
             <span style="font-size: 1.1em;">Sep 2023 - Dec 2024 (Expected)</span>
         </div>
