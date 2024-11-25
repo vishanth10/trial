@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: page
-title: ML Project
-description: A set of ML Projects/ Deep Learning solving the set of Open source problems.
-img:  assets/img/cnn.png
-redirect: https://github.com/vishanth10/MLProjects
-importance: 2
-category: Course Project
---- -->
+title: RAG - Data Reterival Search Engine
+description: A Sample of RAG whole system using Meta-Data Index/Semantic search engine (using Semantic Chunk)
+redirect: https://huggingface.co/spaces/vhr1007/traversaal_test
+img: assets/img/hf.jpg
+importance: 1
+category: Internship
+---
