@@ -5,6 +5,6 @@ description: Using APIs of Github/Hugging face/OpenAI/Twitter API generated stru
 img:  assets/img/llm.png
 redirect: https://github.com/vishanth10/llm-recommender
 importance: 3
-category: Course Project
+category: Thesis
 ---
 

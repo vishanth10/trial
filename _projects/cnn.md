@@ -5,5 +5,5 @@ description: Leveraged MobileNet architecture for classifying COCO dataset image
 img: assets/img/cnn.jpeg
 redirect: https://github.com/vishanth10/Advance_ML
 importance: 4
-category: Latest
+category: Course Project
 ---
